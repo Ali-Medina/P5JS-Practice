@@ -94,4 +94,9 @@ let sliceAngle = TWO_PI / 10;
     strokeWeight(crustWidthSlider.value());
     arc(0, 0, radius * 2, radius * 2, start, start + len);
     pop()
+
+    let jpgButton = createButton('Export JPG')
+  jpgButton.mousePressed(function() {
+    saveCanvas('myCanvas', 'jpg');
+  })
 }
