@@ -1,0 +1,75 @@
+[
+  {
+    "purpose": "self",
+    "type": "project",
+    "desireability": "desireable",
+    "whoWith": "solo",
+    "timeLength": "long",
+    "complete": "finished"
+  },
+  {
+    "purpose": "work",
+    "type": "project",
+    "desireability": "desireable",
+    "whoWith": "solo",
+    "timeLength": "medium",
+    "complete": "finished"
+  },
+  {
+    "purpose": "talkingDog",
+    "type": "meeting",
+    "desireability": "undesireable",
+    "whoWith": "collaborative",
+    "timeLength": "medium",
+    "complete": "finished"
+  },
+  {
+    "purpose": "doddAmbassadors",
+    "type": "meeting",
+    "desireability": "undesireable",
+    "whoWith": "collaborative",
+    "timeLength": "medium",
+    "complete": "finished"
+  },
+  {
+    "purpose": "school",
+    "type": "assignment",
+    "desireability": "undesireable",
+    "whoWith": "solo",
+    "timeLength": "short",
+    "complete": "finished"
+  },
+  {
+    "purpose": "self",
+    "type": "task",
+    "desireability": "desireable",
+    "whoWith": "solo",
+    "timeLength": "short",
+    "complete": "unfinished"
+  },
+  {
+    "purpose": "school",
+    "type": "assignment",
+    "desireability": "undesireable",
+    "whoWith": "solo",
+    "timeLength": "medium",
+    "complete": "finished"
+  },
+  {
+    "purpose": "school",
+    "type": "task",
+    "desireability": "desireable",
+    "whoWith": "solo",
+    "timeLength": "short",
+    "complete": "unfinished"
+  },
+  {
+    "purpose": "self",
+    "type": "meeting",
+    "desireability": "desireable",
+    "whoWith": "collaborative",
+    "timeLength": "long",
+    "complete": "unfinished"
+  }
+  
+]
